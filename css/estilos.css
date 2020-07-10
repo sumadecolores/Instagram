@@ -20,3 +20,12 @@
 .row {
     margin: 0px 3px 0px 3px !important;
 }
+
+.btn-light {
+    background-color: #ffffff !important;
+
+}
+.btn {
+    padding: .2rem .2rem !important;
+    margin: 4px 1px !important;
+}
